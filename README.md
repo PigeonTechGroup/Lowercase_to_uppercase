@@ -1,5 +1,5 @@
 # 简易 Lowercase to uppercase (小写转大写) 软件使用说明
-本软件使用C++开发，未经允许请勿转载。
+本软件使用C++开发，转载请注明原出处及地址。
 
 Author: BoXueDuoCai
 
